@@ -1,3 +1,6 @@
+@angular/animations
+MIT
+
 @angular/common
 MIT
 
@@ -97,6 +100,9 @@ to represent the company, product, or service to which they refer.**
 firebase/app
 
 firebase/firestore
+
+ngx-spinner
+MIT
 
 rxjs
 Apache-2.0
